@@ -1,6 +1,6 @@
 <h1>Hey, this is DitchCarbon 👋</h1>
 
-![alt text]([ditchcarbon_github.png](./ditchcarbon_github.png))
+![image](./ditchcarbon_github.png)
 
 Welcome to [DitchCarbon's](https://ditchcarbon.com)  organisation on Github where we love all the things opensource:
 - 60% of all GHG emissions are from what companies buy. 
