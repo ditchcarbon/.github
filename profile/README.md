@@ -12,3 +12,5 @@ Welcome to [DitchCarbon's](https://ditchcarbon.com)  organisation on Github wher
 - We capture emission data on companies, products and activities then present these wherever decisions are being made, in your procurement, ERP, accounting or our own online tools. 
 
 - We're always keen to chat to potential integration partners so please do get in touch Enquiries@ditchcarbon.com
+  
+- Signup for our free api, https://ditchcarbon.com/ditch-carbon-emissions-pricing.
