@@ -3,6 +3,8 @@
 ![image](./ditchcarbon_github.png)
 
 Welcome to [DitchCarbon's](https://ditchcarbon.com)  organisation on Github where we're working to build emissions data into everything :) 
+- We collect emission data and provide it in a modern REST API to help organizations reduce their carbon emissions and meet their sustainability goals.
+  
 - 60% of all GHG emissions are from what companies buy. 
 
 - Only by making business decisions climate conscious can we drive down emissions fast enough, this is just too big for sustainability departments to handle on their own.
